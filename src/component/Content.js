@@ -7,7 +7,7 @@ class Content extends Component {
                 <div className="brands">
                     <h1>Featured Brands</h1>
                     <div className="show-brands">
-                        <img src={require('../images/banner.gif')} />
+                        <img src={require('../images/zalora.jpg')} />
                         <img src={require('../images/somethingborrowed.jpg')} />
                         <img src={require('../images/ottonon.jpg')} />
                         <img src={require('../images/mango.jpg')} />
@@ -28,21 +28,21 @@ class Content extends Component {
                     <h1>New This Week</h1>
                     <div className="show-product">
                         <div className="product">
-                            <img src={require('../images/banner.gif')} />
+                            <img src={require('../images/HOMEPAGE_ALLUNDER188K_WOMEN.jpg')} />
                             <h3>All Under Rp.188000</h3>
                             <p>
                                 Semua produk fashion untuk jiwa stylish Anda di bawah Rp188.000
                                 </p>
                         </div>
                         <div className="product">
-                            <img src={require('../images/somethingborrowed.jpg')} />
+                            <img src={require('../images/HOMEPAGE_KEMEJADIBAWAH249_MEN.jpg')} />
                             <h3>KEMEJA DI BAWAH RP249.000</h3>
                             <p>
                                 Temukan pilihan kemeja santai hingga formal disini
                                 </p>
                         </div>
                         <div className="product">
-                            <img src={require('../images/ottonon.jpg')} />
+                            <img src={require('../images/promo-women.jpg')} />
                             <h3>THE CROSSBODY BAGS UP TO 70% OFF</h3>
                             <p>
                                 Style tas paling populer untuk menemani hari-hari kasual Anda.
